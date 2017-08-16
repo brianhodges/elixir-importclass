@@ -1,7 +1,4 @@
 defmodule Importclass do
-  #import Importclass.Country
-  #import Importclass.City
-
 	def run do
 		s1 = ["New York", "Virginia", "California", "Florida", "Hawaii"]
 		c1 = %Importclass.City{name: "Los Angeles", population: "4 million"}
