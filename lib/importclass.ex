@@ -24,3 +24,5 @@ defmodule Importclass do
   
 	end
 end
+
+Importclass.run
